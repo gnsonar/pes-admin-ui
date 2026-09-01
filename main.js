@@ -37734,25 +37734,25 @@ function provideRouterInitializer() {
 var MOCK_CONTENT = {
   showcaseSlides: [
     {
-      image: "/assets/images/slideshow_image_1.jpg",
+      image: "/pes-admin-ui/assets/images/slideshow_image_1.jpg",
       tag: "Equipment Training",
       title: "Fire warden & life safety readiness",
       caption: "Practical sessions covering detection, suppression, and safe evacuation leadership."
     },
     {
-      image: "/assets/images/slideshow_image_2.jpg",
+      image: "/pes-admin-ui/assets/images/slideshow_image_2.jpg",
       tag: "Fire Safety",
       title: "Hands-on firefighting & evacuation drills",
       caption: "Live extinguisher training and emergency response simulations for site teams."
     },
     {
-      image: "/assets/images/slideshow_image_3.jpg",
+      image: "/pes-admin-ui/assets/images/slideshow_image_3.jpg",
       tag: "Site HSE",
       title: "Workplace safety for high-risk environments",
       caption: "On-site programs for construction, oil & gas, and industrial operations."
     },
     {
-      image: "/assets/images/slideshow_image_4.jpg",
+      image: "/pes-admin-ui/assets/images/slideshow_image_4.jpg",
       tag: "Classrom Training",
       title: "Close field Training and Demostration",
       caption: "Equally valuable training and demostration to turn theory into practicle."
@@ -37850,7 +37850,7 @@ var MOCK_CONTENT = {
       venue: "Al Noor Contracting \u2014 Doha",
       category: "Fire Safety",
       participants: "24 participants",
-      image: "/assets/images/trainings/Training_1.png"
+      image: "/pes-admin-ui/assets/images/trainings/Training_1.png"
     },
     {
       title: "NEBOSH IGC Preparation Batch",
@@ -37858,7 +37858,7 @@ var MOCK_CONTENT = {
       venue: "GulfTech Manufacturing",
       category: "HSE Certification",
       participants: "18 participants",
-      image: "/assets/images/trainings/Training_2.png"
+      image: "/pes-admin-ui/assets/images/trainings/Training_2.png"
     },
     {
       title: "First Aid with CPR & AED",
@@ -37866,7 +37866,7 @@ var MOCK_CONTENT = {
       venue: "National Facilities Group",
       category: "Emergency Response",
       participants: "16 participants",
-      image: "/assets/images/trainings/Training_3.png"
+      image: "/pes-admin-ui/assets/images/trainings/Training_3.png"
     },
     {
       title: "Fire Warden & Evacuation Marshal",
@@ -37874,7 +37874,7 @@ var MOCK_CONTENT = {
       venue: "Qatar Infrastructure Corp",
       category: "Fire Safety",
       participants: "20 participants",
-      image: "/assets/images/trainings/Training_4.png"
+      image: "/pes-admin-ui/assets/images/trainings/Training_4.png"
     },
     {
       title: "Authorized Gas Tester (AGT)",
@@ -37882,7 +37882,7 @@ var MOCK_CONTENT = {
       venue: "Qatar Oil Services",
       category: "HSE Competency",
       participants: "12 participants",
-      image: "/assets/images/trainings/Training_5.png"
+      image: "/pes-admin-ui/assets/images/trainings/Training_5.png"
     },
     {
       title: "Work at Height Awareness",
@@ -37890,7 +37890,7 @@ var MOCK_CONTENT = {
       venue: "Harbor Hospitality Group",
       category: "Site Safety",
       participants: "15 participants",
-      image: "/assets/images/trainings/Training_6.png"
+      image: "/pes-admin-ui/assets/images/trainings/Training_6.png"
     }
   ],
   trainingActions: [
@@ -37900,7 +37900,7 @@ var MOCK_CONTENT = {
       venue: "Al Noor Contracting \u2014 Doha",
       category: "Fire Safety",
       participants: "24 participants",
-      image: "/assets/images/trainings/Training_1.png"
+      image: "/pes-admin-ui/assets/images/trainings/Training_1.png"
     },
     {
       title: "NEBOSH IGC Preparation Batch",
@@ -37908,7 +37908,7 @@ var MOCK_CONTENT = {
       venue: "GulfTech Manufacturing",
       category: "HSE Certification",
       participants: "18 participants",
-      image: "/assets/images/trainings/Training_2.png"
+      image: "/pes-admin-ui/assets/images/trainings/Training_2.png"
     },
     {
       title: "First Aid with CPR & AED",
@@ -37916,7 +37916,7 @@ var MOCK_CONTENT = {
       venue: "National Facilities Group",
       category: "Emergency Response",
       participants: "16 participants",
-      image: "/assets/images/trainings/Training_3.png"
+      image: "/pes-admin-ui/assets/images/trainings/Training_3.png"
     },
     {
       title: "Fire Warden & Evacuation Marshal",
@@ -37924,7 +37924,7 @@ var MOCK_CONTENT = {
       venue: "Qatar Infrastructure Corp",
       category: "Fire Safety",
       participants: "20 participants",
-      image: "/assets/images/trainings/Training_4.png"
+      image: "/pes-admin-ui/assets/images/trainings/Training_4.png"
     },
     {
       title: "Authorized Gas Tester (AGT)",
@@ -37932,7 +37932,7 @@ var MOCK_CONTENT = {
       venue: "Qatar Oil Services",
       category: "HSE Competency",
       participants: "12 participants",
-      image: "/assets/images/trainings/Training_5.png"
+      image: "/pes-admin-ui/assets/images/trainings/Training_5.png"
     },
     {
       title: "Work at Height Awareness",
@@ -37940,7 +37940,7 @@ var MOCK_CONTENT = {
       venue: "Harbor Hospitality Group",
       category: "Site Safety",
       participants: "15 participants",
-      image: "/assets/images/trainings/Training_6.png"
+      image: "/pes-admin-ui/assets/images/trainings/Training_6.png"
     }
   ],
   trainingSummary: [
@@ -37980,12 +37980,12 @@ var MOCK_CONTENT = {
     }
   ],
   clients: [
-    { name: "thyssenkrup", sector: "Infrastructure", logo: "/assets/clients/thyssenkrupp.png" },
-    { name: "VOLTAS A TATA Enterprise", sector: "Manufacturing", logo: "/assets/clients/voltas.png" },
-    { name: "Shapoorji Pallonji", sector: "Construction", logo: "/assets/clients/shapoorji.png" },
-    { name: "JSSL JSW", sector: "Facility Management", logo: "/assets/clients/jssl.png" },
-    { name: "GHERZI", sector: "Oil & Gas", logo: "/assets/clients/gherzi.png" },
-    { name: "Pratibha Industries Limited", sector: "Construction & Hospitality", logo: "/assets/clients/pratibha.png" }
+    { name: "thyssenkrup", sector: "Infrastructure", logo: "/pes-admin-ui/assets/clients/thyssenkrupp.png" },
+    { name: "VOLTAS A TATA Enterprise", sector: "Manufacturing", logo: "/pes-admin-ui/assets/clients/voltas.png" },
+    { name: "Shapoorji Pallonji", sector: "Construction", logo: "/pes-admin-ui/assets/clients/shapoorji.png" },
+    { name: "JSSL JSW", sector: "Facility Management", logo: "/pes-admin-ui/assets/clients/jssl.png" },
+    { name: "GHERZI", sector: "Oil & Gas", logo: "/pes-admin-ui/assets/clients/gherzi.png" },
+    { name: "Pratibha Industries Limited", sector: "Construction & Hospitality", logo: "/pes-admin-ui/assets/clients/pratibha.png" }
   ],
   testimonials: [
     {
@@ -39908,7 +39908,7 @@ var HeaderComponent = class _HeaderComponent {
   static \u0275fac = function HeaderComponent_Factory(__ngFactoryType__) {
     return new (__ngFactoryType__ || _HeaderComponent)();
   };
-  static \u0275cmp = /* @__PURE__ */ \u0275\u0275defineComponent({ type: _HeaderComponent, selectors: [["app-header"]], decls: 24, vars: 4, consts: [["id", "top", 1, "site-header"], [1, "container", "header-inner"], ["href", "#home", 1, "brand", 3, "click"], ["src", "/assets/logo.png", "alt", "Perfect EHS Solutions logo", 1, "brand-logo"], [1, "brand-text"], ["type", "button", "aria-controls", "site-nav", 1, "nav-toggle", 3, "click"], ["id", "site-nav", "aria-label", "Main navigation", 1, "site-nav"], ["href", "#home", 3, "click"], ["href", "#services", 3, "click"], ["href", "#trainings", 3, "click"], ["href", "#clients", 3, "click"], ["href", "#contact", 1, "btn", "btn-small", 3, "click"]], template: function HeaderComponent_Template(rf, ctx) {
+  static \u0275cmp = /* @__PURE__ */ \u0275\u0275defineComponent({ type: _HeaderComponent, selectors: [["app-header"]], decls: 24, vars: 4, consts: [["id", "top", 1, "site-header"], [1, "container", "header-inner"], ["href", "#home", 1, "brand", 3, "click"], ["src", "/pes-admin-ui/assets/logo.png", "alt", "Perfect EHS Solutions logo", 1, "brand-logo"], [1, "brand-text"], ["type", "button", "aria-controls", "site-nav", 1, "nav-toggle", 3, "click"], ["id", "site-nav", "aria-label", "Main navigation", 1, "site-nav"], ["href", "#home", 3, "click"], ["href", "#services", 3, "click"], ["href", "#trainings", 3, "click"], ["href", "#clients", 3, "click"], ["href", "#contact", 1, "btn", "btn-small", 3, "click"]], template: function HeaderComponent_Template(rf, ctx) {
     if (rf & 1) {
       \u0275\u0275domElementStart(0, "header", 0)(1, "div", 1)(2, "a", 2);
       \u0275\u0275domListener("click", function HeaderComponent_Template_a_click_2_listener() {
@@ -39972,7 +39972,7 @@ var HeaderComponent = class _HeaderComponent {
     args: [{ selector: "app-header", standalone: true, imports: [CommonModule], template: `<header class="site-header" id="top">
   <div class="container header-inner">
     <a class="brand" href="#home" (click)="closeNav()">
-      <img class="brand-logo" src="/assets/logo.png" alt="Perfect EHS Solutions logo" />
+      <img class="brand-logo" src="/pes-admin-ui/assets/logo.png" alt="Perfect EHS Solutions logo" />
       <span class="brand-text">
         <strong>Perfect EHS Solutions</strong>
         <small>Warrior of Generative Safety Culture</small>
@@ -40013,7 +40013,7 @@ var FooterComponent = class _FooterComponent {
   static \u0275fac = function FooterComponent_Factory(__ngFactoryType__) {
     return new (__ngFactoryType__ || _FooterComponent)();
   };
-  static \u0275cmp = /* @__PURE__ */ \u0275\u0275defineComponent({ type: _FooterComponent, selectors: [["app-footer"]], decls: 9, vars: 0, consts: [[1, "site-footer"], [1, "container", "footer-inner"], [1, "footer-brand"], ["src", "/assets/logo.png", "alt", "", 1, "brand-logo", "brand-logo-footer"]], template: function FooterComponent_Template(rf, ctx) {
+  static \u0275cmp = /* @__PURE__ */ \u0275\u0275defineComponent({ type: _FooterComponent, selectors: [["app-footer"]], decls: 9, vars: 0, consts: [[1, "site-footer"], [1, "container", "footer-inner"], [1, "footer-brand"], ["src", "/pes-admin-ui/assets/logo.png", "alt", "", 1, "brand-logo", "brand-logo-footer"]], template: function FooterComponent_Template(rf, ctx) {
     if (rf & 1) {
       \u0275\u0275domElementStart(0, "footer", 0)(1, "div", 1)(2, "div", 2);
       \u0275\u0275domElement(3, "img", 3);
@@ -40029,7 +40029,7 @@ var FooterComponent = class _FooterComponent {
 (() => {
   (typeof ngDevMode === "undefined" || ngDevMode) && setClassMetadata(FooterComponent, [{
     type: Component,
-    args: [{ selector: "app-footer", standalone: true, template: '<footer class="site-footer">\n  <div class="container footer-inner">\n    <div class="footer-brand">\n      <img class="brand-logo brand-logo-footer" src="/assets/logo.png" alt="" />\n      <div>\n        <strong>Perfect EHS Solutions</strong>\n        <p>Fire safety, emergency response, and HSE training provider.</p>\n      </div>\n    </div>\n  </div>\n</footer>\n' }]
+    args: [{ selector: "app-footer", standalone: true, template: '<footer class="site-footer">\n  <div class="container footer-inner">\n    <div class="footer-brand">\n      <img class="brand-logo brand-logo-footer" src="/pes-admin-ui/assets/logo.png" alt="" />\n      <div>\n        <strong>Perfect EHS Solutions</strong>\n        <p>Fire safety, emergency response, and HSE training provider.</p>\n      </div>\n    </div>\n  </div>\n</footer>\n' }]
   }], null, null);
 })();
 (() => {
